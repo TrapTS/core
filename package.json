@@ -1,0 +1,19 @@
+{
+  "name": "@trapts/core",
+  "version": "1.0.0",
+  "description": "trap core.",
+  "scripts": {
+    "format": "prettier --write \"**/*.ts\""
+  },
+  "repository": "https://github.com/TrapTS/trap-core",
+  "author": "AlfieriChou <alfierichou@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/koa": "^2.0.48",
+    "@types/node": "^10.12.24",
+    "koa": "^2.7.0",
+    "prettier": "^1.16.4",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  }
+}
